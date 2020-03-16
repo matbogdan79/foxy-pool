@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581927080599,
+  "timestamp": 1584346543552,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,7 +9,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.5815b3c49b5ea8fe63c3.js",
+        "/main.c80466fbfb86507796da.js",
         "/manifest.webmanifest",
         "/polyfills-es5.0be53d911afbcaebeb1a.js",
         "/polyfills.f739a553fdae9e0a25d3.js",
@@ -23,6 +23,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/aeth.png",
         "/assets/bhd.png",
         "/assets/boom.png",
         "/assets/browserconfig.xml",
@@ -67,6 +68,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/aeth.png": "16e46e56a461f98e1f4de02f08ad1ec38155fe70",
     "/assets/bhd.png": "577ef4790cf241d24779600a0f033b75a5042a5b",
     "/assets/boom.png": "da6de7b183d0a21b02b8603d7562214048a4e181",
     "/assets/browserconfig.xml": "c9e20283278badd2ab93e5fa7c52a7f82e44d71f",
@@ -105,8 +107,8 @@
     "/assets/lava.png": "e94084035da8bc86795e4e68ec1c8ebc9e3560bf",
     "/assets/lhd.png": "c0d8e6ffa92ba7b12af879828948564326fd2c54",
     "/assets/xhd.png": "6c0477619c161c24f7392b59fd23fb452a745312",
-    "/index.html": "fb4ffea916c4fd1599631de5f5dba1b0394f320d",
-    "/main.5815b3c49b5ea8fe63c3.js": "b243ab48a354283e54534484a78e82bb60fcb3f4",
+    "/index.html": "e44aba529447890b2ae7b075d2f607cc1f2cfa50",
+    "/main.c80466fbfb86507796da.js": "2c1e52ea87969c543e7ac31465146dbf9444ce15",
     "/manifest.webmanifest": "e3c5d91bad3284a58fb17a067ad9351719320a53",
     "/polyfills-es5.0be53d911afbcaebeb1a.js": "54c1d63822d9dda34970deb399657a587eb4a79d",
     "/polyfills.f739a553fdae9e0a25d3.js": "ad74c18951e46c89790717453dd17d61e8b3c996",
