@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590532736793,
+  "timestamp": 1590790736605,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -9,7 +9,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.0a1ae6a809b5cd7b9080.js",
+        "/main.742c5f1bc6f21ec198cc.js",
         "/manifest.webmanifest",
         "/polyfills-es5.0be53d911afbcaebeb1a.js",
         "/polyfills.f739a553fdae9e0a25d3.js",
@@ -107,8 +107,8 @@
     "/assets/lava.png": "e94084035da8bc86795e4e68ec1c8ebc9e3560bf",
     "/assets/lhd.png": "c0d8e6ffa92ba7b12af879828948564326fd2c54",
     "/assets/xhd.png": "6c0477619c161c24f7392b59fd23fb452a745312",
-    "/index.html": "fc02392a4cde65ff8e59fd02c3a888c4b9fbfbb7",
-    "/main.0a1ae6a809b5cd7b9080.js": "c018f0bc524ccf862ed2f60e57486cbd366bbb7e",
+    "/index.html": "4c6468fd02654a72e74e22b70dd2da7eba24d853",
+    "/main.742c5f1bc6f21ec198cc.js": "d38315318b441d92e0b34d35fa05662e0f93cdc3",
     "/manifest.webmanifest": "e3c5d91bad3284a58fb17a067ad9351719320a53",
     "/polyfills-es5.0be53d911afbcaebeb1a.js": "54c1d63822d9dda34970deb399657a587eb4a79d",
     "/polyfills.f739a553fdae9e0a25d3.js": "ad74c18951e46c89790717453dd17d61e8b3c996",
